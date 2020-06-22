@@ -1,0 +1,74 @@
+[
+   {
+      "id": "581f4955-84b6-47a4-a8da-9c081d257673",
+      "createdByUserId": "c52c9070-62b3-46b7-bb6a-2a1e21e5cb6d",
+      "title": "Does pineapple go on pizza?",
+      "correctAnswerId": "103a748a-71fa-4fff-a538-efac47948127",
+      "answers": [
+         {
+            "id": "103a748a-71fa-4fff-a538-efac47948127",
+            "text": "Yes."
+         },
+         {
+            "id": "11700aaf-3d18-4c44-ae49-b851fe73262b",
+            "text": "No."
+         }
+      ],
+      "assignees": [
+         {
+            "id": "6bf49dc5-d47e-4385-b2cb-b83f1dcf6c5e",
+            "firstName": "Mike",
+            "lastName": "Zetlow",
+            "email": "mike@gmail.com",
+            "assignedAt": 1592593584491,
+            "answeredAt": 1592593620154,
+            "userAnswerId": "103a748a-71fa-4fff-a538-efac47948127"
+         },
+         {
+            "id": "966b9e4a-6059-4bef-9ba8-537de8b988bd",
+            "firstName": "Chris",
+            "lastName": "Fortier",
+            "email": "chris@gmail.com",
+            "assignedAt": 1592593603310,
+            "answeredAt": 1592593638280,
+            "userAnswerId": "11700aaf-3d18-4c44-ae49-b851fe73262b"
+         }
+      ]
+   },
+   {
+      "id": "9f072e30-86c4-43a3-b142-537331a2b420",
+      "createdByUserId": "c52c9070-62b3-46b7-bb6a-2a1e21e5cb6d",
+      "title": "Does cilantro taste like soap?",
+      "correctAnswerId": "04134f00-91a1-463d-a1a3-faeb813885eb",
+      "answers": [
+         {
+            "id": "15e13a82-6e9e-4dc0-ba68-d5475ccba97b",
+            "text": "Yes"
+         },
+         {
+            "id": "04134f00-91a1-463d-a1a3-faeb813885eb",
+            "text": "No"
+         }
+      ],
+      "assignees": [
+         {
+            "id": "6bf49dc5-d47e-4385-b2cb-b83f1dcf6c5e",
+            "firstName": "Mike",
+            "lastName": "Zetlow",
+            "email": "mike@gmail.com",
+            "assignedAt": 1592593807373,
+            "answeredAt": 1592593823022,
+            "userAnswerId": "04134f00-91a1-463d-a1a3-faeb813885eb"
+         },
+         {
+            "id": "966b9e4a-6059-4bef-9ba8-537de8b988bd",
+            "firstName": "Chris",
+            "lastName": "Fortier",
+            "email": "chris@gmail.com",
+            "assignedAt": 1592593816200,
+            "answeredAt": 1592593829915,
+            "userAnswerId": "15e13a82-6e9e-4dc0-ba68-d5475ccba97b"
+         }
+      ]
+   }
+]

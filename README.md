@@ -82,7 +82,7 @@ const users = [
 
 ---
 
-| id       | hobbies     | user_id            |
+| id       | name        | user_id            |
 | -------- | ----------- | ------------------ |
 | 68282426 | guitar      | c52c9070           |
 | e2823dd9 | movies      | d13f7769           |
@@ -93,7 +93,7 @@ const users = [
 
 ---
 
-| id       | hobbies     |
+| id       | name        |
 | -------- | ----------- |
 | 68282426 | guitar      |
 | e2823dd9 | movies      |
